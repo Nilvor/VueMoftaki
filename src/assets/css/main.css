@@ -1,0 +1,29 @@
+@font-face {
+    font-family: vazir;
+    src: url('../fonts/vazir.ttf');
+}
+
+@font-face {
+    font-family: vazir_bold;
+    src: url('../fonts/vazir_bold.ttf');
+}
+
+@font-face {
+    font-family: vazir_farsi;
+    src: url('../fonts/vazir_farsi.ttf');
+}
+
+body{
+    font-family: vazir !important;
+}
+
+h1 , h2 ,h3 , h4 , h5 ,h6{
+    font-family: vazir;
+}
+
+a{
+    font-family: vazir !important;
+}
+
+
+

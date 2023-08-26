@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43.662" height="43.909" viewBox="0 0 43.662 43.909">
+  <g id="credit-card-payment" transform="translate(0.25 0.497)">
+    <path id="Path_1369" data-name="Path 1369" d="M42.053,14.023,29.14,1.11a3.8,3.8,0,0,0-5.365,0l-16.2,16.2H3.794A3.8,3.8,0,0,0,0,21.107V39.369a3.8,3.8,0,0,0,3.794,3.794H32.847a3.8,3.8,0,0,0,3.794-3.794V24.8l5.412-5.412a3.8,3.8,0,0,0,0-5.365ZM25.563,2.9a1.266,1.266,0,0,1,1.788,0l6.654,6.654-7.761,7.761h-15.1Zm8.548,36.471a1.266,1.266,0,0,1-1.265,1.265H3.794a1.266,1.266,0,0,1-1.265-1.265V21.107a1.266,1.266,0,0,1,1.265-1.265H32.847a1.266,1.266,0,0,1,1.265,1.265Zm-.75-22.02a3.81,3.81,0,0,0-.515-.036H29.82l5.973-5.973,1.788,1.788Zm6.9.25-3.624,3.624v-.117a3.777,3.777,0,0,0-.951-2.509l3.681-3.681.894.894A1.266,1.266,0,0,1,40.264,17.6Z" transform="translate(0 0)" stroke="#000" stroke-width="0.5"/>
+    <path id="Path_1370" data-name="Path 1370" d="M60,406.574h4.706V409.1H60Z" transform="translate(-54.942 -372.298)" stroke="#000" stroke-width="0.5"/>
+    <path id="Path_1371" data-name="Path 1371" d="M146.267,406.574h4.706V409.1h-4.706Z" transform="translate(-133.936 -372.298)" stroke="#000" stroke-width="0.5"/>
+    <path id="Path_1372" data-name="Path 1372" d="M232.534,406.574h4.706V409.1h-4.706Z" transform="translate(-212.93 -372.298)" stroke="#000" stroke-width="0.5"/>
+    <path id="Path_1373" data-name="Path 1373" d="M318.8,406.574h4.706V409.1H318.8Z" transform="translate(-291.925 -372.298)" stroke="#000" stroke-width="0.5"/>
+    <path id="Path_1374" data-name="Path 1374" d="M68.537,280.766H60v7.587h8.537Zm-2.529,5.058H62.529V283.3h3.479Z" transform="translate(-54.942 -257.096)" stroke="#000" stroke-width="0.5"/>
+  </g>
+</svg>

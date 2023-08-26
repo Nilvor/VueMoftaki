@@ -1,0 +1,4 @@
+#EC407A pink
+#F3F3F3 gray
+#FCD7E8 light pink
+#E3F5F5 cygn
